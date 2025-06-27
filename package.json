@@ -172,7 +172,7 @@
     "@types/react-swipeable-views": "^0.13.1",
     "@types/react-test-renderer": "^18.0.0",
     "@types/react-textarea-autosize": "^8.0.0",
-    "@types/react-toggle": "^4.0.3",
+    "@types/react-toggle": "^4.0.5",
     "@types/redux-immutable": "^4.0.3",
     "@types/requestidlecallback": "^0.3.5",
     "@types/throng": "^4.0.2",
