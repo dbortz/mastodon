@@ -16,7 +16,7 @@ updates:
   - package-ecosystem: bundler
     directory: '/'
     schedule:
-      interval: hourly
+      interval: daily
     open-pull-requests-limit: 99
     allow:
       - dependency-type: direct
