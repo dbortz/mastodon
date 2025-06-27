@@ -2288,10 +2288,10 @@
     immutable "^4.0.0-rc.1"
     redux "^4.0.0"
 
-"@types/requestidlecallback@^0.3.5":
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/@types/requestidlecallback/-/requestidlecallback-0.3.5.tgz#132529751a4717fe7dc55fef5e930336f229543c"
-  integrity sha512-Uh49VrVTPfU0y/qIvXXYuRmd/sKLfVgQWZU1t8FWH22AIJyQbCei1aSmXdMDAijwGUFhBDpJmksiHEDsfiE/cg==
+"@types/requestidlecallback@^0.3.7":
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/@types/requestidlecallback/-/requestidlecallback-0.3.7.tgz#ecd1422a96e6cfa2c538504a6bb30f50fdb0b27e"
+  integrity sha512-5/EwNH3H/+M2zxATq9UidyD7rCq3WhK5Te/XhdhqP270QoGInVkoNBj6kK2Ah5slkZewkX8XJb7WDaYhmJu+eg==
 
 "@types/resolve@1.17.1":
   version "1.17.1"
