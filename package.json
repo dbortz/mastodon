@@ -150,7 +150,7 @@
     "@types/http-link-header": "^1.0.3",
     "@types/intl": "^1.2.0",
     "@types/jest": "^29.4.2",
-    "@types/js-yaml": "^4.0.5",
+    "@types/js-yaml": "^4.0.9",
     "@types/lodash": "^4.14.191",
     "@types/npmlog": "^4.1.4",
     "@types/object-assign": "^4.0.30",
