@@ -103,7 +103,7 @@ group :development, :test do
   gem 'fabrication', '~> 2.30'
   gem 'fuubar', '~> 2.5'
   gem 'i18n-tasks', '~> 1.0', require: false
-  gem 'rspec-rails', '~> 6.0'
+  gem 'rspec-rails', '~> 6.1'
   gem 'rspec_chunked', '~> 0.6'
 
   gem 'rubocop-capybara', require: false
