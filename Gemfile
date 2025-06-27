@@ -122,7 +122,7 @@ group :test do
   gem 'climate_control'
   gem 'faker', '~> 3.1'
   gem 'json-schema', '~> 3.0'
-  gem 'rack-test', '~> 2.1'
+  gem 'rack-test', '~> 2.2'
   gem 'rails-controller-testing', '~> 1.0'
   gem 'rspec_junit_formatter', '~> 0.6'
   gem 'rspec-sidekiq', '~> 3.1'
