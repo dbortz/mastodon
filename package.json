@@ -209,7 +209,7 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.7",
-    "utf-8-validate": "^6.0.3"
+    "utf-8-validate": "^6.0.5"
   },
   "lint-staged": {
     "*": "prettier --ignore-unknown --write",
