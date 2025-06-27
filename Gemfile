@@ -142,7 +142,7 @@ group :development do
   gem 'haml_lint', require: false
 
   gem 'capistrano', '~> 3.17'
-  gem 'capistrano-rails', '~> 1.6'
+  gem 'capistrano-rails', '~> 1.7'
   gem 'capistrano-rbenv', '~> 2.2'
   gem 'capistrano-yarn', '~> 2.0'
 
