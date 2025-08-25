@@ -124,6 +124,7 @@ GEM
       aws-sigv4 (~> 1.4)
     aws-sigv4 (1.5.2)
       aws-eventstream (~> 1, >= 1.0.2)
+    base64 (0.3.0)
     bcrypt (3.1.18)
     better_errors (2.9.1)
       coderay (>= 1.0.0)
@@ -426,7 +427,9 @@ GEM
     net-imap (0.3.4)
       date
       net-protocol
-    net-ldap (0.17.1)
+    net-ldap (0.20.0)
+      base64
+      ostruct
     net-pop (0.1.2)
       net-protocol
     net-protocol (0.2.1)
@@ -477,6 +480,7 @@ GEM
     openssl-signature_algorithm (1.3.0)
       openssl (> 2.0)
     orm_adapter (0.5.0)
+    ostruct (0.6.3)
     ox (2.14.14)
     parallel (1.22.1)
     parser (3.2.2.0)
@@ -826,7 +830,7 @@ DEPENDENCIES
   memory_profiler
   mime-types (~> 3.4.1)
   net-http (~> 0.3.2)
-  net-ldap (~> 0.17)
+  net-ldap (~> 0.20)
   nokogiri (~> 1.14)
   nsa (~> 0.2)
   oj (~> 3.14)
