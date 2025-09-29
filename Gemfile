@@ -11,7 +11,7 @@ gem 'sprockets', '~> 3.7.2'
 gem 'thor', '~> 1.2'
 gem 'rack', '~> 2.2.6'
 
-gem 'haml-rails', '~>2.0'
+gem 'haml-rails', '~>3.0'
 gem 'pg', '~> 1.4'
 gem 'makara', '~> 0.5'
 gem 'pghero'
